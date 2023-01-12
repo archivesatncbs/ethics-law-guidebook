@@ -1,0 +1,141 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+.hero--primary {
+
+  --ifm-hero-background-color: #483B3B;
+
+}
+
+.homepageBody {
+
+  text-align: center;
+  text-justify: inter-word;
+  font-family: 'Montserrat';
+  padding: 5rem 3rem;
+  font-size: large;
+
+}
+
+.footer {
+
+  background-color: #827878;
+}
+
+.artwork {
+
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  border:2px
+
+}
+
+
+.featuresHead {
+
+  text-align: center;
+  font-family: 'Montserrat';
+  padding: 3rem 0;
+  font-size: xx-large;
+
+}
+
+.col--4 {
+    --ifm-col-width: 25%;
+}
+
+
+@font-face {
+  font-family: "Montserrat";
+  src: url('/static/fonts/Montserrat-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Anybody";
+  src: url('/static/fonts/Anybody-Regular.ttf') format('truetype');
+}
+
+
+
+/* Archives at NCBS colors*/
+
+:root {
+
+  --ifm-heading-font-family: 'Anybody';
+  --ifm-font-family-base: 'Montserrat';
+
+  --ifm-color-primary: #804141;
+  /* --ifm-color-primary:#8f5554; */
+  --ifm-color-primary-dark: #753838;
+  --ifm-color-primary-darker: #6b2e30;
+  --ifm-color-primary-darkest: #602527;
+  --ifm-color-primary-light: #8f5554;
+  --ifm-color-primary-lighter: #9e6967;
+  --ifm-color-primary-lightest: #ac7d7b;
+  --ifm-code-font-size: 95%;
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+  --ifm-color-primary: #804141;
+  --ifm-color-primary-dark: #753838;
+  --ifm-color-primary-darker: #6b2e30;
+  --ifm-color-primary-darkest: #602527;
+  --ifm-color-primary-light: #8f5554;
+  --ifm-color-primary-lighter: #9e6967;
+  --ifm-color-primary-lightest: #ac7d7b;
+  --ifm-code-font-size: 95%;
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* .hero__title {
+
+  font-family: 'Montserrat';
+
+} */
+
+.text--center h3 {
+
+  font-family: 'Montserrat';
+  
+}
+
+.doc__description {
+
+  font-family: 'Montserrat';
+}
+
+
+
+/* You can override the default Infima variables here. */
+/* :root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+} */
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* [data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+} */
