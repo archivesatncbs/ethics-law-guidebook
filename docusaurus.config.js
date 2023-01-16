@@ -28,6 +28,16 @@ const config = {
   },
 
 
+  // headTags: [
+
+  //   {
+
+  //     tagName: 'title'
+  //     attributes :
+
+  //   }
+
+  // ],
 
   plugins: [
               [
@@ -71,7 +81,16 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    (
+      
+    
+      {
+
+        colorMode: {
+          defaultMode: 'light',
+          disableSwitch: true,
+        },
+
       navbar: {
         title: ' ',
         logo: {
@@ -103,6 +122,7 @@ const config = {
           {
 //             href: require.resolve('/pdf/2022-12-24-guidebook.pdf'),
             href: '/pdf/2022-12-24-guidebook-temp.pdf',
+            // href: '/pdf/2023-01-15-guidebook.pdf',
             target: '_blank',
             label: 'Download PDF',
             position: 'right',
@@ -154,7 +174,10 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    }),
+    }
+    
+    
+    ),
 };
 
 module.exports = config;

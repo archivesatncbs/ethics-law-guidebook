@@ -80,7 +80,7 @@ We are very grateful to Arun Thiruvengadam and Mariella Soprano for endorsing th
 A note about the institutions and people behind the guidebook:
 The Archives at NCBS is a public collecting centre for the history of science in contemporary India. Besides its role as a collecting centre, the Archives at NCBS also aims to push the frontiers of research in archival sciences in India, forging intersections with scholarship in law and ethics, and work with a diverse community of practitioners.
 
-Milli is a collective of individuals and communities interested in the nurturing of archives, especially in South Asia.[^2] Milli was partly incubated at the Archives at NCBS.  The collective was instrumental facilitating discussions and feedback on all aspects of the guidebook.
+Milli is a collective of individuals and communities interested in the nurturing of archives, especially in South Asia.[^2] Milli was partly incubated at the Archives at NCBS.  The collective was instrumental in facilitating discussions and feedback on all aspects of the guidebook.
 
 Farah Yameen acted as a consulting expert to lead the development of the ethical code. Yameen has been working with archives in India for 7 years and was reading for an M.A. in Archives and Records Management at University College London at the time that she was working on this guidebook. The project also supported Yameen's dissertation on archival ethics in India by facilitating access to networks of archivists for data collection. The findings of her published research have been incorporated into the development of the guidebook.
 
