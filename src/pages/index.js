@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Artwork from '@site/static/img/banner-00.png';
 
 import styles from './index.module.css';
 
@@ -38,11 +39,22 @@ export default function Home() {
       description="Archives at NCBS">
       <HomepageHeader />
       <main>
-        
-          <section className='artwork'>
-          </section>
+{/*         
+          <section className='artwork' >
           
-          <p className='homepageBody'>The project, <em>Archives, Ethics and the Law in India</em>, anchored by the Archives at NCBS, aims to learn from and train archivists and users of archives in India to respond to questions of archives, copyright, ownership and access, and the public’s rights to information and privacy. Click the links in the menu on top to navigate the guidebook or download the PDF and share feedback on the <a href='https://bit.ly/archives-ethics-law-guidebook-feedback'>online form</a></p>
+
+          </section>
+           */}
+          <div className='container'>
+            <p>
+            The project, <em>Archives, Ethics and the Law in India</em>, anchored by the Archives at NCBS, aims to learn from and train archivists and users of archives in India to respond to questions of archives, copyright, ownership and access, and the public’s rights to information and privacy. Click the links in the menu on top to navigate the guidebook or download the PDF and share feedback on the <a href='https://bit.ly/archives-ethics-law-guidebook-feedback'>online form</a>
+            </p>
+
+            {/* <img className='artwork' src={Artwork} >
+
+            </img> */}
+
+          </div>
           
           <p className='featuresHead'> Supported by </p>
           

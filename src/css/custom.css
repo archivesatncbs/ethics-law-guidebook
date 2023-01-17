@@ -3,30 +3,66 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
+ @font-face {
+  font-family: "Montserrat";
+  src: url('/static/fonts/Montserrat-Medium.ttf') format('truetype');
+}
 
+@font-face {
+  font-family: "Anybody";
+  src: url('/static/fonts/Anybody-Regular.ttf') format('truetype');
+}
+
+.hero {
+
+  background-image: url('/static/img/banner-00.png');
+
+}
+
+.heroBanner {
+
+  text-align: left;
+  padding: 4rem;
+
+}
 .hero--primary {
 
   /* --ifm-hero-background-color: #483B3B; */
-  --ifm-hero-background-color: #FFFFFF;
+  /* --ifm-hero-background-color: #FFFFFF; */
+  --ifm-hero-background-color: transparent;
   /* --ifm-hero-background-color: var(--ifm-background-color); */
   background-image: url('/static/img/banner-00.png');
   /* background-size: cover; */
   background-size: contain;
   background-repeat: no-repeat;
-  --ifm-hero-text-color: #827878;
-}
-/* 
-.hero__title h1{
+  background-position: right;
+  /* --ifm-hero-text-color: #827878; */
+  --ifm-hero-text-color: #483B3B;
 
-  color: black;
+  padding: 2rem;
+
+}
+ 
+.hero__title {
+
+  text-align: left;
+  -webkit-text-stroke: 0.5px white;
+  /* text-shadow: 2px 2px 2px white; */
+  /* color: black; */
 
 } 
 
-/* .hero__subtitle{ */
+.hero__subtitle {
+
+  font-weight: bolder;
+  text-align: left;
+  /* text-shadow: 2px 2px 2px white; */
+
+  -webkit-text-stroke: 0.5px white;
 
   /* color : var(--ifm-hero-text-color); */
 
-/* } */
+}
 
 /* .hero {
 
@@ -39,12 +75,22 @@
 
   /* background-image: url('/static/img/banner-00.png'); */
   /* background-size: 100% 100%; */
-
-  text-align: center;
+  background-color: transparent;
+  width: 100%;
+  text-align: left;
   text-justify: inter-word;
   font-family: 'Montserrat';
-  padding: 5rem 3rem;
+  padding: 2rem 2rem;
   font-size: large;
+  margin: auto;
+}
+
+.homepageBody {
+
+  padding: 0 auto;
+  margin: 0 auto;
+  /* width: 100%; */
+  max-width: var(--ifm-container-width);
 
 }
 
@@ -54,14 +100,22 @@
 
 }
 
+.container {
+
+  padding: 2rem;
+
+}
+
 .artwork {
 
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
-  border:2px;
+  /* display: flex; */
+  /* align-items: center; */
+  /* padding: 2rem 0; */
+  
+  /* border:2px; */
 
+  height: 100px;
+  width: 100%;
   /* background-image: url('/static/img/banner-00.png'); */
 
 
@@ -82,15 +136,6 @@
 }
 
 
-@font-face {
-  font-family: "Montserrat";
-  src: url('/static/fonts/Montserrat-Medium.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: "Anybody";
-  src: url('/static/fonts/Anybody-Regular.ttf') format('truetype');
-}
 
 
 
