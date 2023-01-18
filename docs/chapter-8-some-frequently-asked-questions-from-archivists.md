@@ -159,7 +159,7 @@ The Digital Preservation Coalition has a useful compilation of archival formats 
 
 [^12]: Russell, R., and Winkworth, K.(2009). Significance 2.0: A Guide to Assessing the Significance of Collections. Council of Australia. Retrieved from  https://www.arts.gov.au/sites/default/files/significance-2.0.pdf?acsf_files_redirect
 
-[^13]: Oral History Australia. (n.d.). Guide – Ethical Practice. Retreived from https://oralhistoryaustralia.org.au/guide-ethical-practice
+[^13]: Oral History Australia. (n.d.). Guide – Ethical Practice. Retrieved from https://oralhistoryaustralia.org.au/guide-ethical-practice
 
 
 [^14]: National Oral History Association of New Zealand (NOHANZ). (n.d.).Ethics & Practice. Retrieved from https://www.oralhistory.org.nz/index.php/ethics-and-practice
