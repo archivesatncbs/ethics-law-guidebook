@@ -32,7 +32,7 @@ Milli Archives Collective
 2022
 
 *Revision History*  
-**Version 1**, published for public comment, **Jan 19 2023**
+**Version 1**, published for public comment, **Jan 23 2023**
 
 *Additional collaborators*  
 Archive of IIT Madras, Indian Statistical Institute Archives, QAMRA Archival Project at NLSIU
