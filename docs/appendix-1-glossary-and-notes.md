@@ -16,16 +16,18 @@ Definitions for the following terms used often in this guidebook are taken from 
 ### Acquisition
 - Materials physically and officially transferred to a repository as a unit at a single time.
 - The process of seeking and receiving materials from any source by transfer, donation, or purchase.
+
 (SAA Glossary)
 
 ### Accession
 - Materials physically and legally transferred to a repository as a unit at a single time; an acquisition.
 - To take legal and physical custody of a group of records or other materials and to formally document their receipt.
 - To document the transfer of records or materials in a register, database, or other log of the repository's holdings.
+
 (SAA Glossary)
 
 ### Access
-- The ability to locate relevant information through the use of catalogs, indexes, finding aids, or other tools.
+- The ability to locate relevant information through the use of catalogues, indexes, finding aids, or other tools.
 - The permission to locate and retrieve information for use (consultation or reference) within legally established restrictions of privacy, confidentiality, and security clearance.
 (SAA Glossary)
 
@@ -110,7 +112,7 @@ The right to own something.
 
 **Historical Value:** Historical value is defined variously as the intrinsic worth of a record as evidence, documentation, or witness. A record is said to have value when it captures information of enduring relevance to a people, organisation, or humanity. What is relevant, however, can vary enormously from perspective to perspective. Many organisations believe ephemera to be records of no enduring value. Others dedicate entire collections to ephemera for what they reflect of the people and the times that produced them. What is of 'intrinsic' value to one person, organisation or people may be worthless to another. Nothing, in effect, is in fact intrinsic and the determination of intrinsic value is a highly subjective assessment.
 
-Historical value is often assessed and defined by those with financial, political, and cultural capital. It also reflects the priorities of recordkeepers at a particular time in history. A global movement on Displaced Archives petitioning for the return of archives seized from ex-colonies of imperialist powers or lost during war highlight this conundrum. As empires receded, any documents were destroyed after being deemed irrelevant, and sometimes deliberately to keep them from causing embarrassment to colonizing governments or officials in the new colonies. Countries like Kenya, Cyprus, Uganda, Algeria consider many critical records of their history lost to this action. Although the displacement or loss of these archives may appear to be considered acts of historical malice, much of the destruction in fact happened as a routine bureaucratic procedure. It is therefore advisable to build strong preventative measures against wanton destruction and define and appraise collections for long term preservation with intention. Many international bodies have guidelines on selection of materials for long term preservation. Some of these are linked in the Further Reading section.
+Historical value is often assessed and defined by those with financial, political, and cultural capital. It also reflects the priorities of recordkeepers at a particular time in history. A global movement on Displaced Archives petitioning for the return of archives seized from ex-colonies of imperialist powers or lost during war, highlight this conundrum. As empires receded, any documents were destroyed after being deemed irrelevant, and sometimes deliberately to keep them from causing embarrassment to colonising governments or officials in the new colonies. Countries like Kenya, Cyprus, Uganda, Algeria consider many critical records of their history lost to this action. Although the displacement or loss of these archives may appear to be considered acts of historical malice, much of the destruction in fact happened as a routine bureaucratic procedure. It is therefore advisable to build strong preventative measures against wanton destruction and define and appraise collections for long term preservation with intention. Many international bodies have guidelines on selection of materials for long term preservation. Some of these are linked in the Further Reading section.
 
 
 [^1]: Society of American Archivists. (n.d.). SAA Dictionary. Retrieved from https://dictionary.archivists.org/index.html

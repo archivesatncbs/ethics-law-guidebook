@@ -9,7 +9,7 @@ sidebar_position: 7
 
 # Public Records Law and Archives
 
-*This chapter covers public archives including the National Archives of India, State Archives, and  the Right to Information Act and the Public Records Act. It also convers access to public records, and government records.*
+*This chapter covers public archives including the National Archives of India, State Archives, and  the Right to Information Act and the Public Records Act. It also covers access to public records, and government records.*
 
 ***Scenario: An archive at a government institute holds records in its capacity as a government-run or government-aided institution, without a separate legal status. Although the archive’s repository includes largely ‘private’ records, it also holds records considered to be created by the government, or those that are considered ‘public’ records. Moreover, as a government-affiliated institution, many of its functions are regulated by the conditions for record-keeping of public (i.e. government) archives. This raises a host of questions for archives. To what extent are the functions of archives that hold private as well as public records regulated by laws that apply to government records? Do archives need to comply with mandates for records management and information access established for public records?***  
 
@@ -32,7 +32,7 @@ The question of if a statutory body or corporation is ‘substantially controlle
 
 
 *The Public Records Act allows records creating agencies to submit records of a permanent nature (after 25 years from creation of the record) for appraisal to the National Archives, for preservation. All unclassified public records that have been transferred to the National Archives and are more than 30 years old, may be made available for access to ‘bona fide research scholars’, subject to restrictions prescribed by the government, which may be made through rules made under the Act.*
-Further, any records creating agency is empowered under Section 11(2) of the Public Records act to grant any person access to any public record in its custody in such manner and subject to such conditions as may be prescribed.  
+Further, any records creating agency is empowered under Section 11(2) of the Public Records Act to grant any person access to any public record in its custody in such manner and subject to such conditions as may be prescribed.  
 
 The Public Records Act also allows the National Archives or the Archives of Union Territories to accept private records of ‘historical or national importance’ by way of gift or purchase, which may be a consideration for private archives looking to dispose of an archival collection by donating or selling these to the National Archives or the archives of Union Territories. Further conditions regulating the functioning of records creating agencies and National Archives are present in the Public Records Rules, 1997.[^2] Rules include, for example, a prohibition on the destruction of any public record without being recorded and reviewed as per the records retention schedule of the records creating agency.  
 
@@ -61,7 +61,7 @@ The scope of ‘public authority’ under the RTI Act is much wider than the sco
 
    * Is the archive part of a government ministry, department or office, or an institution established by statute?  
 
-   * Is the archive or the institution under which the archive operates substantially controlled by the Government? (For example, does the Government have the power to manage its affairs, for example, through control of the board of directors?)  
+   * Is the archive or the institution under which the archive operates substantially controlled by the Government? (For example, does the Government have the power to manage its affairs, through control of the board of directors?)  
 
    * Is the archive a non-government organisation which relies entirely or substantially upon government funding for its sustainability?
 
@@ -69,7 +69,7 @@ If the answers to any of the above are in the affirmative, the archive may fall 
 
 Second, certain archives may also hold ‘information’ or records temporarily deposited by public authorities as part of their archival collections. Such records would continue to be ‘under the control’ of the public authority, and upon receipt of an inspection request, the public authority may be required to provide access to such records or copies of such records.  
 
-For instance, the archives of an institution that is substantially supported and financed by the Central Government of any state government or instrumentality will be considered to be a ‘public authority’ for the purpose of the RTI Act, 2005 (an archive that keeps the records of a government institution). It must comply with the conditions for access of records under the RTI Act, including responding to RTI queries and proactively disclosing certain records, subject to the restrictions under the Act. The nature of the institution – for example, whether it was established by statute of the Central Government of any state government – will determine whether it also must comply with the requirements of the Public Records Act, 1993.  
+For instance, the archives of an institution that is substantially supported and financed by the Central Government or any state government or instrumentality will be considered to be a ‘public authority’ for the purpose of the RTI Act, 2005 (an archive that keeps the records of a government institution). It must comply with the conditions for access of records under the RTI Act, including responding to RTI queries and proactively disclosing certain records, subject to the restrictions under the Act. The nature of the institution – for example, whether it was established by statute of the Central Government or any state government – will determine whether it also must comply with the requirements of the Public Records Act, 1993.  
 
 
 [^1]: Thalappalam Ser. Coop. Bank Ltd. v. State of Kerala [2013] 16 SCC 82. Retrieved from https://indiankanoon.org/doc/37517217

@@ -11,7 +11,7 @@ sidebar_position: 11
 
 
 
-*Covers ethics of access, privacy, consent, triggering information, embargoes, historical value and public interest*
+*This chapter covers ethics of access, privacy, consent, triggering information, embargoes, historical value and public interest*
 
 This section emerged from workshops conducted in 2022 where archivists were invited to share their learnings from their archives. The workshops included open sessions where archivists raised questions on law and ethics from their specific archival environment. These included questions on copyright, access and ownership which have been covered in the section on archival law. The questions on ethics have been addressed below. These are broad approaches that will vary according to the regulatory frameworks and the nature of the material that the archive works with. The answers are intended to prompt archivists to think in different directions in weighing decisions that they make about their archives.
 
@@ -42,7 +42,7 @@ If you have reviewed sensitivity and have the resources to do so, you could make
 
 **Does the material contain triggering information such as gender or caste-based violence and discrimination?**
 
-Triggering information in archives can be harmful to subjects of the archives, to users, and to archivists themselves. Documents containing descriptions of sexual violence, for instance, can be triggering to persons or familiars of persons to whom the document refers, but also to other survivors of sexual violence or even communities that have historically been subjected to such violence. This does not imply that archives should be cordoned off for containing such material. Instead, it is advisable to include trigger warnings as resources permit. Scholarship on trauma informed approaches[^5]<sup>,</sup>[^6] cites safety, trust, transparency, and choice as underlying principles in making such material accessible. In archives, these principles extend to the archive facilities, the manner in which archives are cataloged and described, the public communication of the archives, and the process of making archives available.[^7] How these principles may be implemented can be highly specific for archives, but conversations on mental health, training on dealing with traumatic material and support for employees working with difficult material can empower the archives to practice care.
+Triggering information in archives can be harmful to subjects of the archives, to users, and to archivists themselves. Documents containing descriptions of sexual violence, for instance, can be triggering to persons or familiars of persons to whom the document refers, but also to other survivors of sexual violence or even communities that have historically been subjected to such violence. This does not imply that archives should be cordoned off for containing such material. Instead, it is advisable to include trigger warnings as resources permit. Scholarship on trauma informed approaches[^5]<sup>,</sup>[^6] cites safety, trust, transparency, and choice as underlying principles in making such material accessible. In archives, these principles extend to the archive facilities, the manner in which archives are catalogued and described, the public communication of the archives, and the process of making archives available.[^7] How these principles may be implemented can be highly specific for archives, but conversations on mental health, training on dealing with traumatic material and support for employees working with difficult material can empower the archives to practice care.
 
 
 **Have there been any embargo requests?**
@@ -54,7 +54,7 @@ Requests to embargo can be complicated. In certain conditions such as sensitive 
 ## ***The employee files in my organisation contain medical records and identifiable details. How should we treat these in the archives?***
 
 
-Under regular circumstances, only persons with authorization within the archive to access these records should be able to process these files. All personal data owned by organisations should have clear authorizations for access.
+Under regular circumstances, only persons with authorisation within the archive to access these records should be able to process these files. All personal data owned by organisations should have clear authorizations for access.
 
 The privacy of medical records is mandated by The Indian Medical Council (Professional Conduct, Etiquette and Ethics) Regulations, 2002, besides other regulatory mechanisms (see Chapter 3). Ethically, the medical records of an individual are private. However, medical records may be sought for legal proceedings, or enough time may have passed such that the content of the medical records is valuable only as historical interest and does not affect living persons adversely. Under international data protection regimes, data privacy is protected only while an individual is alive. Ethically, arguments have been made for effect on families of deceased individuals. And an attempt to enable post-mortem privacy through a designated person is part of India’s draft Digital Data Protection Bill, 2022. It is for the archive to make a considered decision on the effect of making the data available and balancing access with privacy.
 
@@ -62,12 +62,12 @@ The same applies to other personal data. Personal data may be sought for legal r
 
 Situations in which the archive may consider making private data accessible include:
 
-   1. Legal proceedings  
-   2. Legitimate request from family  
-   3. Legitimate public interest  
-   4. If the data subject gives informed consent for such data being made available  
-   5. If the archive has determined after a thorough review that the release of data does not adversely affect the persons to whom the data pertains  
-   6. If the information is of historical value and does not affect living persons  
+   1. Legal proceedings.  
+   2. Legitimate request from family.  
+   3. Legitimate public interest.  
+   4. If the data subject gives informed consent for such data being made available.  
+   5. If the archive has determined after a thorough review that the release of data does not adversely affect the persons to whom the data pertains.  
+   6. If the information is of historical value and does not affect living persons.  
 
 
 It is important to remember that these considerations presume the absence of a data protection regulation. Some of these considerations, although ethical, are not legally mandated under international data protection regulations.
@@ -105,7 +105,7 @@ As an organisation or individual, you might be collectively or personally at a p
 
 In asymmetrical power relationships where the asymmetry works at different intersectional levels, informed consent is a constant process of building trust that extends beyond signatures on form or verbal information before the commencement of the research. Informed consent is built over various stages of the research process with a constant reiteration of the right of the participant to withdraw. While documentation of the consent may in fact be a form, the process of consent must involve both formal and informal conversations and engagement with participants with unambiguous space for declining, refusing and withdrawing from participation at any stage of the research process. Participants must also have recourse to internal and external redressal mechanisms with clear channels of communication with the archive. The AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research[^12] guidelines on responsibilities can be adapted to many different contexts to inform ethical documentation and collection. The Archives at NCBS has a Consent and Agreement Form for oral history interviews that is developed by looking at best practices at various institutions. For further details and templates, refer to the Appendix: Further Reading and Resources.  
 
-In symmetrical researcher-researched or archivist-archived relationships, informed consent should clearly explain all purposes and uses of the research as set out by guidelines on oral history and qualitative research. International guidelines are helpful in drawing up consent forms and procedures, but it is important to recognize that the regional, legal, political, and socio-cultural contexts in India about information sharing can be very different. Organisations like Archives and Research for Ethnomusicology (ARCE), Centre for Public History (CPH), Partition Museum, and the Oral History Association of India (OHAI) are organisations that have a robust experience of working with oral histories and can share experience of ethics on the field. International guidelines from Oral History Australia[^13], National Oral History Association of New Zealand[^14], Oral History Association USA[^15] and the Oral History Society, UK[^16]  are useful to reference when collaborating in a global research environment. The Oral History Society also has advice on dealing with media requests[^17] to oral history recordings.  
+In symmetrical researcher-researched or archivist-archived relationships, informed consent should clearly explain all purposes and uses of the research as set out by guidelines on oral history and qualitative research. International guidelines are helpful in drawing up consent forms and procedures, but it is important to recognise that the regional, legal, political, and socio-cultural contexts in India about information sharing can be very different. Organisations like Archives and Research for Ethnomusicology (ARCE), Centre for Public History (CPH), Partition Museum, and the Oral History Association of India (OHAI) are organisations that have a robust experience of working with oral histories and can share experience of ethics on the field. International guidelines from Oral History Australia[^13], National Oral History Association of New Zealand[^14], Oral History Association USA[^15] and the Oral History Society, UK[^16]  are useful references when collaborating in a global research environment. The Oral History Society also has advice on dealing with media requests[^17] to oral history recordings.  
 
 **Have you defined guidelines for ethical processes for documenting, accessioning, and processing oral history including participant rights to recording?**
 

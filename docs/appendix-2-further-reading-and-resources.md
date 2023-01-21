@@ -69,7 +69,7 @@ Insurance Regulatory and Development Authority (IRDA). (2019). IRDA health servi
 
 International Federation of Library Associations and Institutions and International Council on Archives. (2020). IFLA-ICA statement on privacy legislation and archiving. International Federation of Library Associations and Institutions. Retrieved December 20, 2022, from https://www.ifla.org/publications/ifla-ica-statement-on-privacy-legislation-and-archiving
 
-Innovate India. (2022). Inviting Feedback on Draft Digital Personal Data Protection Bill. Retrieved on December 23, 2022 from  https://innovateindia.mygov.in/digital-data-protection
+Innovate India. (2022). Inviting Feedback on Draft Digital Personal Data Protection Bill. Retrieved December 23, 2022 from  https://innovateindia.mygov.in/digital-data-protection
 
 Justice KS Puttaswamy (Retd.) and Anr. v. Union Of India And Ors [2017] 10 SCC 1 . Retrieved December 20, 2022, from https://indiankanoon.org/doc/91938676
 
@@ -79,7 +79,7 @@ Lomas, E. (2019). Navigating confidentiality, legal privilege and GDPR to mainta
 
 Managing Director, Makkal Tholai Thodarpu Kuzhumam Limited Vs. Mrs. V. Muthulakshmi [2007] 6 MLJ 1152. Retrieved December 23, 2022 from https://indiankanoon.org/doc/47400
 
-Ministry of Electronics and Information Technology. (2022). Data Protection Framework. Retrieved on December 23, 2022 from  https://www.meity.gov.in/data-protection-framework
+Ministry of Electronics and Information Technology. (2022). Data Protection Framework. Retrieved December 23, 2022 from  https://www.meity.gov.in/data-protection-framework
 
 National Archives. (2018). Guide to archiving personal data. National Archives. Retrieved December 20, 2022, from https://www.nationalarchives.gov.uk/documents/information-management/guide-to-archiving-personal-data.pdf
 
@@ -110,7 +110,7 @@ Thalappalam Ser. Coop. Bank Ltd. v. State of Kerala [2013] 16 SCC 82 . Retrieved
 
 ### Right to be Forgotten
 
-General Data Protection Regulation (GDPR) European Union. (n.d.). Data Protection Impact Assessment (DPIA). GDPR-EU. Retrieved on December 23, 2022 from https://gdpr.eu/data-protection-impact-assessment-template
+General Data Protection Regulation (GDPR) European Union. (n.d.). Data Protection Impact Assessment (DPIA). GDPR-EU. Retrieved December 23, 2022 from https://gdpr.eu/data-protection-impact-assessment-template
 
 Sinha, A. (2017). Right to be forgotten: A tale of two judgements. Centre for Internet and Society. Retrieved December 20, 2022, from https://cis-india.org/internet-governance/blog/right-to-be-forgotten-a-tale-of-two-judgments
 
@@ -122,7 +122,7 @@ Accountability Initiative, Centre for Policy Research, New Delhi. (2013). Who is
 
 Gautam, M. (2010). Right to information and its impact on access to archives. International Council on Archives. Retrieved December 20, 2022, from  https://www.ica.org/en/meena-gautam
 
-MP Varghese v. The Mahatma Gandhi University [2007] 3 KLT 486. Retrieved 20 December 2022, from https://indiankanoon.org/doc/1189278
+MP Varghese v. The Mahatma Gandhi University [2007] 3 KLT 486. Retrieved December 20, 2022, from https://indiankanoon.org/doc/1189278
 
 Right to Information Act 2005. Retrieved December 20, 2022, from https://rti.gov.in
 
@@ -203,7 +203,7 @@ International Council on Archives. (1996). ICA code of ethics | International Co
 
 International Council on Archives and UNESCO. (2011). Universal declaration on archives.
 
-International Council on Archives. Retrieved on December 20, 2022, from https://www.ica.org/en/universal-declaration-on-archives-uda
+International Council on Archives. Retrieved December 20, 2022, from https://www.ica.org/en/universal-declaration-on-archives-uda
 
 Oral History Association. (n.d.). OHA Statement on Ethics. Retrieved December 23, 2022, from https://oralhistory.org/oha-statement-on-ethics
 
