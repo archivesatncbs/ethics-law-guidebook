@@ -13,6 +13,14 @@
   src: url('/static/fonts/Anybody-Regular.ttf') format('truetype');
 }
 
+
+.pagination-nav__label{
+
+  font-size: var(--ifm-h5-font-size);
+  
+}
+
+
 .hero {
 
   background-image: url('/static/img/banner-00.png');
