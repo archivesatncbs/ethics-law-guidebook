@@ -121,7 +121,7 @@ const config = {
 
           {
 //             href: require.resolve('/pdf/2022-12-24-guidebook.pdf'),
-            href: '/pdf/2023-01-16-guidebook.pdf',
+            href: '/pdf/2023-01-22-guidebook.pdf',
             // href: '/pdf/2023-01-15-guidebook.pdf',
             target: '_blank',
             label: 'Download PDF',
