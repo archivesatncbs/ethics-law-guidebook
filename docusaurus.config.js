@@ -96,8 +96,16 @@ const config = {
         logo: {
           alt: 'logo_archives_ncbs',
           src: 'img/logo_archives_ncbs.svg',
+          href: 'https://archives.ncbs.res.in',
         },
         items: [
+
+
+          {
+            label: 'Home',
+            to: '/',
+            position: 'left',
+          },
 
           {
             type: 'doc',
@@ -121,7 +129,7 @@ const config = {
 
           {
 //             href: require.resolve('/pdf/2022-12-24-guidebook.pdf'),
-            href: 'https://archives.ncbs.res.in/sites/default/files/2023-01-22-guidebook.pdf',
+            href: 'https://archives.ncbs.res.in/sites/default/files/archives-ethics-law-in-india-guidebook-2023-01-22.pdf',
             // href: '/pdf/2023-01-15-guidebook.pdf',
             target: '_blank',
             label: 'Download PDF',
