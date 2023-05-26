@@ -1,7 +1,7 @@
 ---
 
 id: chapter-1
-title: Chapter 1. Acquisitions and Appraisals
+title: Chapter 1 - Acquisitions and Appraisals
 sidebar_position: 4
 
 ---
