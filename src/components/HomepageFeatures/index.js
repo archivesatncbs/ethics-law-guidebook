@@ -42,7 +42,7 @@ const FeatureList = [
 
   {
     title: ' ',
-    Svg: require('@site/static/img/logo_milli.svg').default,
+    Svg: require('@site/static/img/logo-maf.svg').default,
       imglink: 'https://www.milli.link/',
 
     description: (
